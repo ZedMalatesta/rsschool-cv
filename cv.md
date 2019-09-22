@@ -1,13 +1,16 @@
 # My CV
 
 ## First Name, Last Name:
-
-Pavel Yrosh
+  
+ Pavel Yrosh
 ***
 ## Contact Info:
- **Phone:** +375336898879
- **Email:** epiccinemabattles@gmail.com, py@bel.biz
- **GitHub, GitLab:** Zeddikus97
+**Phone:** +375336898879  
+ 
+**Email:** epiccinemabattles@gmail.com, py@bel.biz  
+ 
+**GitHub, GitLab:** Zeddikus97  
+ 
 ***
 ## Summary:
 ***
@@ -21,6 +24,7 @@ Pavel Yrosh
  * basic knowledges of C#(ASP.NET), Python 
 ***
 ## Code examples (LATEST):
+
 ***
 ## Experience: 
  Projects on 
