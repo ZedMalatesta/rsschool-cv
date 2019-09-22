@@ -1,0 +1,15 @@
+.info-block{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1024px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 16px;
+}
+
+.image-block{
+    text-align: center;
+}
+
+.image-block h2{
+    text-align: left;
+}
