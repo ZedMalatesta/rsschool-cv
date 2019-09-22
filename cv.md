@@ -26,7 +26,7 @@
  * basic knowledges of C#(ASP.NET), Python 
 
 ***
-## Code examples (LATEST):
+## Code examples:
  Ligthning app on Force.com, Contact manager 
  Login: developersuccesstest@company.com 
  Password: 5323xrff
@@ -41,7 +41,7 @@
  GRSU-lab (see above)
 
 ***
-## Education (including courses, seminars, lectures, online learning)
+## Education:
  University education as a math-programmer
  SENLA Salesforce courses with certificate
 
